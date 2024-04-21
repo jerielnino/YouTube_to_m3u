@@ -11,15 +11,6 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="Live_Now" tvg-logo="https://yt3.googleusercontent.com/ByvxqCtCU-pg2qag3xozViR6SSGgg_tcaVphfUSS4F9LlNBw6iLp0bA6idkNdzzdwHXHUiO30mc=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Malappuram Football
-http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Live_Now" tvg-logo="https://images.performgroup.com/di/library/GOAL/b8/6a/sevens-kerala-football-isl_1f9smdxymmxxp1pxf849flp5ej.jpg?t=558784763" tvg-id="", Sevens_football
-http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Live_Now" tvg-logo="https://images.performgroup.com/di/library/GOAL/b8/6a/sevens-kerala-football-isl_1f9smdxymmxxp1pxf849flp5ej.jpg?t=558784763" tvg-id="", Local_match
-http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Ekattor TV Live
 http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
 
@@ -33,12 +24,6 @@ http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
 http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/TDQFp4gCYpLJMr1qBl0h9BOONYx_A7NoiVgH5lsBGQsNA9BKTe7acRL0hjAqvsMtGwi6YTbwq8E=s176-c-k-c0x00ffffff-no-rj" tvg-id="", 24/7 Malayalam Music [Lofi]
-http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/EwVFsF0sTXE41y6Bua9GGmQ0YNZKaobLc5XfzrG6-IduicpzY5AP9LpJnh5MRCGNo7kkK9pnHDU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Quran recitation 24/7
-http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/EwVFsF0sTXE41y6Bua9GGmQ0YNZKaobLc5XfzrG6-IduicpzY5AP9LpJnh5MRCGNo7kkK9pnHDU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Quran recitation V2 24/7
 http://jerielnino.github.io/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
